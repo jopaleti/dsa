@@ -1,0 +1,19 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "My track of learning Data Structure and Algorithm(DSA)",
+  "main": "3sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopaleti/dsa.git"
+  },
+  "author": "jopaleti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jopaleti/dsa/issues"
+  },
+  "homepage": "https://github.com/jopaleti/dsa#readme"
+}

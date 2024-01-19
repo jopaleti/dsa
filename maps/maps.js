@@ -1,0 +1,1 @@
+// Maps or dictionary are data structures stores a collection of key-value pairs.
