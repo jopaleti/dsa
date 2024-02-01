@@ -4,7 +4,8 @@
   "description": "My track of learning Data Structure and Algorithm(DSA)",
   "main": "3sum.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node hashset.js --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jopaleti/dsa/issues"
   },
-  "homepage": "https://github.com/jopaleti/dsa#readme"
+  "homepage": "https://github.com/jopaleti/dsa#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
