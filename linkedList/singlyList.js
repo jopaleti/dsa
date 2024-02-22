@@ -74,7 +74,7 @@ linkedList.append(3);
 console.log("Initial Linked List:");
 linkedList.display();
 
-linkedList.insertAt(1, 4);
+linkedList.insertAt(2, 4);
 
 console.log("\nLinked List after insertion:");
 linkedList.display();
